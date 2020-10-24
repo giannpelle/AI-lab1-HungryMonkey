@@ -7,7 +7,7 @@ This repository contains the group work submitted for the Assignment 1 of the [A
 The problem introduced by the assignment is to find the **best sequence of actions** to make the *agent* (a monkey) reaching all *goals* (bananas) in the given environment: in this case it was a *grid map*, with some obstacles (blocks) inside the grid map.  
 An example of the **world environment** is shown below:  
 
-<img src="/images/world_example.png"  width="280">
+<img src="/images/hungry_monkey.gif"  width="300">
 
 The *agent* can only move north, east, south or west (with the corresponding actions {N, E, S, W}) each costing 1. If you reach a banana you get a reward of 10, and if you bump into an obstable or the border of the map you just stay still. 
 
