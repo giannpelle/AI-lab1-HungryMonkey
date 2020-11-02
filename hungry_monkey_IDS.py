@@ -46,12 +46,6 @@ class IDPlayer(InformedPlayer):
         """
         print("".join(["-" for i in range(40)]), f"Limit Depth ({depth})", "".join(["-" for i in range(40)]))
         
-        #if depth == 0:
-            #print(f"nodes explored: 0")
-        #else:
-            #print(f"nodes explored: {self.counter}")
-        #self.counter = 0
-        
         return self.recursive_dls(HungryMonkeyNode(problem.initial_location, problem.banana_locations), problem, depth, set([HungryMonkeyNode(problem.initial_location, problem.banana_locations)]))
     
     def recursive_dls(self, node: HungryMonkeyNode, problem: HungryMonkeyProblem, limit, explored_nodes):
