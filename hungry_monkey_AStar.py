@@ -42,7 +42,7 @@ class AStarPlayer(InformedPlayer):
             successors = [problem.child_node(parent, action) for action in problem.available_actions_for(parent.state)]
             self.counter+=1
             for child in successors:
-                child_total_cost = child.path_cost + parent.heuristic_cost
+                child_total_cost = child.path_cost + child.heuristic_cost
                 if child not in list(reached) or child_total_cost < reached[child]:
                     reached[child] = child_total_cost
                     frontier.put(child)
