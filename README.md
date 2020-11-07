@@ -62,4 +62,7 @@ world4 | unknown | 3'923 nodes | 878 nodes
 world5 | unknown | 1'053 nodes | 240 nodes
 
 (*) euristic function:  
-manhattan distance between the agent and the closest goal among the remaining ones
+manhattan distance between the agent and the closest goal among the remaining ones (\*\*)
+
+(\*\*) EDIT 8 Nov 2020: we found out that the heuristic is actually not admissible, so the A* algorithm will not return an optimal solution to the problem
+
