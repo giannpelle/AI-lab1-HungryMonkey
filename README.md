@@ -9,7 +9,7 @@ An example of the **world environment** is shown below:
 
 <img src="/images/hungry_monkey.gif"  width="300">
 
-The *agent* can only move north, east, south or west (with the corresponding actions {N, E, S, W}) each costing 1. If you reach a banana you get a reward of 10, and if you bump into an obstable or the border of the map you just stay still. 
+The *agent* can only move north, east, south or west (with the corresponding actions {N, E, S, W}) each costing 1. If you reach a banana you get a reward of 10, and if you bump into an obstable or the border of the map you just stay still.
 
 ## Technical description
 
@@ -20,6 +20,11 @@ Three different types of search techniques are required:
   2. Uniform Cost Search (UCS)
 * __Informed search__:
   1. A* search (with a custom heuristic function to be passed as input)
+  
+## Solution outputs
+
+If you want to see the results (outputs) we got from running the different kind of search techniques just look at the [sample outputs](https://github.com/giannpelle/AI-lab1-HungryMonkey/tree/master/sample-outputs) directory.
+Otherwise, if you want to run them yourself, go straight to the next section.
 
 ## Running requirements
 
