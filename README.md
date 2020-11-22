@@ -23,8 +23,25 @@ Three different types of search techniques are required:
   
 ## Solution outputs
 
-If you want to see the results (outputs) we got from running the different kind of search techniques just look at the [sample outputs](https://github.com/giannpelle/AI-lab1-HungryMonkey/tree/master/sample-outputs) directory.
-Otherwise, if you want to run them yourself, go straight to the next section.
+If you want to see the results (outputs) we got from running the different kind of search techniques below there is the full list of outputs:
+
+[IDS search - world0](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/IDS-world0-output.html)
+[IDS search - world1](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/IDS-world1-output.html)
+[IDS search - world2](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/IDS-world2-output.html)
+
+[UCS search - world0](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world0-output.html)
+[UCS search - world1](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world1-output.html)
+[UCS search - world2](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world2-output.html)
+[UCS search - world3](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world3-output.html)
+[UCS search - world4](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world4-output.html)
+[UCS search - world5](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world5-output.html)
+
+[AStar search - world0](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world0-output.html)
+[AStar search - world1](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world1-output.html)
+[AStar search - world2](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world2-output.html)
+[AStar search - world3](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world3-output.html)
+[AStar search - world4](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world4-output.html)
+[AStar search - world5](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world5-output.html)
 
 ## Running requirements
 
