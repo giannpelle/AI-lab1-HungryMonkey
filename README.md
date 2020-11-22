@@ -38,13 +38,13 @@ If you want to see the results (outputs) we got from running the different kind 
   * [UCS search - world4](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world4-output.html)
   * [UCS search - world5](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/UCS-world5-output.html)
 
-* AStar search:
-  * [AStar search - world0](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world0-output.html)
-  * [AStar search - world1](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world1-output.html)
-  * [AStar search - world2](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world2-output.html)
-  * [AStar search - world3](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world3-output.html)
-  * [AStar search - world4](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world4-output.html)
-  * [AStar search - world5](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world5-output.html)
+* A* search:
+  * [A* search - world0](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world0-output.html)
+  * [A* search - world1](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world1-output.html)
+  * [A* search - world2](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world2-output.html)
+  * [A* search - world3](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world3-output.html)
+  * [A* search - world4](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world4-output.html)
+  * [A* search - world5](http://htmlpreview.github.io/?https://github.com/giannpelle/AI-lab1-HungryMonkey/blob/master/sample-outputs/AStar-world5-output.html)
 
 ## Running requirements
 
